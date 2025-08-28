@@ -1,7 +1,8 @@
 # Autómata Tablero 5x5
 
-Implementación un **autómata** sobre un tablero de ajedrez de 5x5, simulando movimientos y rutas para dos piezas en movimientos de una casilla en una casilla.  
-Incluye visualización de rutas, generación de reportes y manejo de sprites para representar el estado del tablero.
+Implementación un **autómata** sobre un tablero de ajedrez de 5x5, simulando movimientos y rutas para dos piezas en movimientos de una casilla en una casilla. 
+El objetivo de cada pieza es llegar a la esquina inferior contraria (Casillas 21 y 25).
+Incluye visualización de rutas, reporte y manejo de sprites para representar el estado del tablero.
 
 ---
 
